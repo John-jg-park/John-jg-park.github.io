@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Post Archive with Feature Rows"
-permalink: /projects/
+permalink: /portfolios/
 author_profile: true
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+    alt: "portfolios image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
