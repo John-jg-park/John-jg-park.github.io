@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Under Constuction"
+title: "Under Construction"
 permalink: /portfolios/
 author_profile: true
 ---
