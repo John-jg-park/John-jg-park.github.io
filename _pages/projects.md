@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Post Archive with Feature Rows"
+title: "Arizona State University Projects"
 permalink: /projects/
 author_profile: true
 feature_row:
