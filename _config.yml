@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "John Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Engineer | ML Engineer" #"I am an **amazing** person."
+  bio              : "Data/ML Engineer" #"I am an **amazing** person."
   location         : "Calgary AB Canada"
   email            :
   links:
