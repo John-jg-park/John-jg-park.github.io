@@ -11,3 +11,4 @@ I studied my masters at the University of Connecticut in hydrologic modeling whe
 
 I am very passionate about different applications of data science and in my free time I enjoy writing articles on various data science topics with Spark, Python, R, Tableau, etc. on this website, DataScience+ and R-bloggers. So, keep visiting them. You will find new and interesting posts.
 
+Passionate, creative, and results-driven Masters' student in Computer Science with 1+ year of internship experience in software development related to Full-Stack, Deep Learning, and Data Science; in entrepreneurial and agile environments; with overall 5 years of hands-on exposure to problem-solving through research and technology; seeking Co-Op/full-time opportunities starting from January 2021/May 2021.
