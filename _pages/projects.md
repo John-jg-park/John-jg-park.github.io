@@ -6,7 +6,7 @@ author_profile: true
 feature_row2:
   - image_path: /assets/images/ML.jpg
     alt: "placeholder image 2"
-    title: "CSE 575 - Statistical Machine Learning"
+    title: "Statistical Machine Learning"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "https://github.com/John-jg-park/Statistical-Machine-Learning"
     btn_label: "Read More"
