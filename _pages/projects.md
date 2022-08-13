@@ -15,12 +15,12 @@ feature_row3:
   - image_path: /assets/images/Bigdata.jpg
     alt: "placeholder image 2"
     title: "Data Processing at Scale"
-    excerpt: 'NoSQL MongoDB and Spark SQL'
-    url: "https://github.com/John-jg-park/Statistical-Machine-Learning"
+    excerpt: 'NoSQL(MongoDB) and Spark SQL'
+    url: "https://github.com/John-jg-park/Data-Processing-at-Scale"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/ML.jpg
+  - image_path: /assets/images/datamining.jpg
     alt: "placeholder image 2"
     title: "Data Mining"
     excerpt: 'Machine Model Training and Cluster Validation'
@@ -28,7 +28,7 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: /assets/images/ML.jpg
+  - image_path: /assets/images/computervision.jpg
     alt: "placeholder image 2"
     title: "Introduction to Deep Learning in Visual Computing"
     excerpt: 'Deep Learning for Computer Vision'
