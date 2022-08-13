@@ -14,25 +14,25 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/ML.jpg
     alt: "placeholder image 2"
-    title: "Statistical Machine Learning"
-    excerpt: 'MNIST Classification and K-means Clustering'
-    url: "https://github.com/John-jg-park/Statistical-Machine-Learning"
+    title: "Data Processing at Scale"
+    excerpt: 'NoSQL-MongoDB and Spark SQL'
+    url: "https://github.com/John-jg-park/Data-Processing-at-Scale"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/ML.jpg
     alt: "placeholder image 2"
-    title: "Statistical Machine Learning"
-    excerpt: 'MNIST Classification and K-means Clustering'
-    url: "https://github.com/John-jg-park/Statistical-Machine-Learning"
+    title: "Data Mining"
+    excerpt: 'Machine Model Training and Cluster Validation'
+    url: "https://github.com/John-jg-park/Data-Mining"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
   - image_path: /assets/images/ML.jpg
     alt: "placeholder image 2"
-    title: "Statistical Machine Learning"
-    excerpt: 'MNIST Classification and K-means Clustering'
-    url: "https://github.com/John-jg-park/Statistical-Machine-Learning"
+    title: "Introduction to Deep Learning in Visual Computing"
+    excerpt: 'Deep Learning for Computer Vision'
+    url: "https://github.com/John-jg-park/Introduction-to-Deep-Learning-in-Visual-Computing"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
