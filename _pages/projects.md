@@ -12,7 +12,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/ML.jpg
+  - image_path: /assets/images/Bigdata.jpg
     alt: "placeholder image 2"
     title: "Data Processing at Scale"
     excerpt: 'NoSQL MongoDB and Spark SQL'
