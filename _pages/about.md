@@ -5,7 +5,7 @@ permalink: /about/
 classes: wide
 author_profile: true
 ---
-<font size="4"> <addr> Hello! My name is John Park, and I absolutely love to apply data science skills to any type of industry. I am very passionate about the up-to-date technologies of data science field and I enjoy updating posts regarding various data related topics with Python, R, Spark, Airflow, Cloud, ML, Computer Vison, etc. Please keep visiting my website, then you will find new and interesting posts.  </font> 
+<font size="4"> <space> Hello! My name is John Park, and I absolutely love to apply data science skills to any type of industry. I am very passionate about the up-to-date technologies of data science field and I enjoy updating posts regarding various data related topics with Python, R, Spark, Airflow, Cloud, ML, Computer Vison, etc. Please keep visiting my website, then you will find new and interesting posts.  </font> 
   
 <font size="4"> I have completed my master degree in computer science at Arizona State University where I studied big data processing, machine learning, artificial intelligent, software engineering. I am currently looking for full-time opportunities in areas such as Data Engineer and Machine Learning engineer.     </font>
   
