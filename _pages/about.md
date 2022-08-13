@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: "About Me"
+excerpt: "Hello! My name is John Park, and I absolutely love to apply data science skills to any type of industry. I am very passionate about the up-to-date technologies of data science field and I enjoy updating posts regarding various data related topics with Python, R, Spark, Airflow, Cloud, ML, Computer Vison, etc. Please keep visiting my website, then you will find new and interesting posts.   "
 permalink: /about/
 classes: wide
 author_profile: true
