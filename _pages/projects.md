@@ -39,16 +39,10 @@ feature_row4:
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    url: "https://github.com/John-jg-park/Statistical-Machine-Learning"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row5:
-  - 
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+
 ---
 
 {% for post in site.posts limit: 5 %}
