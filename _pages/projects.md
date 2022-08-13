@@ -14,8 +14,8 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/ML.jpg
     alt: "placeholder image 2"
-    title: "Statistical Machine Learning"
-    excerpt: 'MNIST Classification and K-means Clustering'
+    title: "Data Processing at Scale"
+    excerpt: 'NoSQL MongoDB and Spark SQL'
     url: "https://github.com/John-jg-park/Statistical-Machine-Learning"
     btn_label: "Read More"
     btn_class: "btn--primary"
