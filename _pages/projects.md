@@ -45,7 +45,7 @@ feature_row4:
 
 ---
 
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts limit: 1 %}
   {% include archive-single.html %}
 {% endfor %}
 
