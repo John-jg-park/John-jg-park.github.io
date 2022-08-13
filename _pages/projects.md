@@ -7,7 +7,7 @@ feature_row2:
   - image_path: /assets/images/ML.jpg
     alt: "placeholder image 2"
     title: "Statistical Machine Learning"
-    excerpt: 'MNIST Classification and K-means Clustering | Technologies Used: Python, Pandas, Numpy, Pickle, Matplotlib'
+    excerpt: 'MNIST Classification and K-means Clustering'
     url: "https://github.com/John-jg-park/Statistical-Machine-Learning"
     btn_label: "Read More"
     btn_class: "btn--primary"
