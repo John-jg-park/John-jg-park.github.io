@@ -19,11 +19,11 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/ML.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
+    title: "CSE 575 - Statistical Machine Learning"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    url: "https://github.com/John-jg-park/Statistical-Machine-Learning"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
