@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: single
 title: "Category"
 permalink: /categories/
 author_profile: true
