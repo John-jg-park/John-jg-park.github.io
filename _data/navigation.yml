@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Posts"
-    url: "https://john-jg-park.github.io/"
+    url: /categories/
   - title: "Portfolios"
     url: /portfolios/
   - title: "Academic Projects"
