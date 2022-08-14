@@ -39,7 +39,7 @@ feature_row6:
   - image_path: /assets/images/mobile.jpg
     alt: "placeholder image 2"
     title: "Mobile Computing"
-    excerpt: 'Developing a mobile application using Android Studio and Training/Testing a CNN model for hand gestures'
+    excerpt: 'Mobile application development using Android Studio and CNN model Train/Test for hand gestures'
     url: "https://github.com/John-jg-park/Mobile-Computing"
     btn_label: "Read More"
     btn_class: "btn--primary"
