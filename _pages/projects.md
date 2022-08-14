@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Arizona State University Projects"
 permalink: /projects/
 author_profile: true
