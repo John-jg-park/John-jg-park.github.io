@@ -2,7 +2,7 @@
 layout: single
 title: "Arizona State University Projects"
 permalink: /projects/
-author_profile: true
+
 feature_row2:
   - image_path: /assets/images/ML.jpg
     alt: "placeholder image 2"
