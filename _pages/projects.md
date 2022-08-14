@@ -35,7 +35,14 @@ feature_row5:
     url: "https://github.com/John-jg-park/Introduction-to-Deep-Learning-in-Visual-Computing"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
+feature_row6:
+  - image_path: /assets/images/mobile.jpg
+    alt: "placeholder image 2"
+    title: "Mobile Computing"
+    excerpt: 'Developing a mobile application using Android Studio and Training/Testing a CNN model for hand gestures'
+    url: "https://github.com/John-jg-park/Mobile-Computing"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% for post in site.posts limit: 5 %}
@@ -50,3 +57,4 @@ feature_row5:
 {% include feature_row id="feature_row3" type="left" %}
 {% include feature_row id="feature_row4" type="left" %}
 {% include feature_row id="feature_row5" type="left" %}
+{% include feature_row id="feature_row6" type="left" %}
